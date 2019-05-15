@@ -1,0 +1,3 @@
+maxmin
+min
+null

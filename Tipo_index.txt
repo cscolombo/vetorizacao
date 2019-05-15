@@ -1,0 +1,12 @@
+adj
+adv
+art
+conj-c
+conj-s
+n
+null
+pron-det
+prop
+prp
+punc
+v-fin
